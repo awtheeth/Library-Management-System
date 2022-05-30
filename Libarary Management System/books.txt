@@ -1,0 +1,5 @@
+Harry Potter,Jk Rowling,19,$2
+Start With Why,Simon Sinek,9,$1.5
+Programe With Python,John Smith,25,$1.5
+A little life,Hanya Yanagiharu,11,$2.5
+Darksmans,Nicola Barker,6,$1

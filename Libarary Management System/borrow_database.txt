@@ -1,0 +1,167 @@
+
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: asrf(460669655)
+The total price is: $2.0
+The date and time while borrowing book was:2021-09-07 13:46:00.669655
+The borrowed books are: 
+Harry Potter
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: wef(4635731469)
+The total price is: $8.5
+The date and time while borrowing book was:2021-09-07 13:46:35.731469
+The borrowed books are: 
+Harry Potter
+Start With Why
+Programe With Python
+A little life
+Darksmans
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: qwe(5037553536)
+The total price is: $7.5
+The date and time while borrowing book was:2021-09-07 13:50:37.553536
+The borrowed books are: 
+Harry Potter
+Start With Why
+Programe With Python
+A little life
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: atit(113217847)
+The total price is: $4.0
+The date and time while borrowing book was:2021-09-07 16:11:03.217847
+The borrowed books are: 
+Harry Potter
+Harry Potter
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: hero(1210639305)
+The total price is: $5.5
+The date and time while borrowing book was:2021-09-07 16:12:10.639305
+The borrowed books are: 
+Start With Why
+Start With Why
+Programe With Python
+Darksmans
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: qwer(2438369802)
+The total price is: $4.5
+The date and time while borrowing book was:2021-09-07 16:24:38.369802
+The borrowed books are: 
+Harry Potter
+Programe With Python
+Darksmans
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: adf(038248503)
+The total price is: $2.0
+The date and time while borrowing book was:2021-09-09 00:00:38.248503
+The borrowed books are: 
+Harry Potter
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: atit(1422880364)
+The total price is: $2.0
+The date and time while borrowing book was:2021-09-09 21:14:22.880364
+The borrowed books are: 
+Harry Potter
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: atit(1733609306)
+The total price is: $3.5
+The date and time while borrowing book was:2021-09-09 21:17:33.609306
+The borrowed books are: 
+Start With Why
+Harry Potter
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: atit(3420536319)
+The total price is: $1.5
+The date and time while borrowing book was:2021-09-10 12:34:20.536319
+The borrowed books are: 
+Start With Why
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: hero(455745521)
+The total price is: $4.0
+The date and time while borrowing book was:2021-09-10 12:45:05.745521
+The borrowed books are: 
+Harry Potter
+Harry Potter
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: villain(5718364884)
+The total price is: $3.5
+The date and time while borrowing book was:2021-09-10 12:57:18.364884
+The borrowed books are: 
+Harry Potter
+Start With Why
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: asdf(5439230251)
+The total price is: $1.5
+The date and time while borrowing book was:2021-09-10 13:54:39.230251
+The borrowed books are: 
+Start With Why
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: zerif(4230500421)
+The total price is: $1.5
+The date and time while borrowing book was:2021-09-10 14:42:30.500421
+The borrowed books are: 
+Start With Why
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name of the borrower is: luffy(1126253290)
+The total price is: $2.5
+The date and time while borrowing book was:2021-09-10 15:11:26.253290
+The borrowed books are: 
+A little life
+
+-------------------------------------------------------------------

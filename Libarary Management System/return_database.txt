@@ -1,0 +1,47 @@
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name who has returned book is: goku(5718364884)
+The date and time while returning book was:2021-09-10 12:57:18.364884
+The returned books are: 
+Harry Potter
+The total charge is: $0.6000000000000001
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name who has returned book is: atit(2044352108)
+The date and time while returning book was:2021-09-10 13:20:44.352108
+The returned books are: 
+Harry Potter
+The total charge is: $0.4
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name who has returned book is: sanji(3328478102)
+The date and time while returning book was:2021-09-10 13:33:28.478102
+The returned books are: 
+Harry Potter
+Start With Why
+The total charge is: $1.0
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name who has returned book is: zoro(5354714010)
+The date and time while returning book was:2021-09-10 14:53:54.714010
+The returned books are: 
+Programe With Python
+The total charge is: $0.4
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+                        Customer's Details                     
+-------------------------------------------------------------------
+The name who has returned book is: nami(1126253290)
+The date and time while returning book was:2021-09-10 15:11:26.253290
+The returned books are: 
+Start With Why
+The total charge is: $0.6000000000000001
+-------------------------------------------------------------------
